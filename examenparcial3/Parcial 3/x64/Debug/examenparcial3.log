@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\stacy\Downloads\examenparcial3\Parcial 3\Main.cpp(43,19): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\stacy\Downloads\examenparcial3\Parcial 3\Main.cpp(288,25): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\stacy\Downloads\examenparcial3\Parcial 3\Main.cpp(289,26): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\stacy\Downloads\examenparcial3\Parcial 3\Main.cpp(381,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stacy\Downloads\examenparcial3\Parcial 3\Main.cpp(410,21): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\stacy\Downloads\examenparcial3\Parcial 3\Main.cpp(411,22): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\stacy\Downloads\examenparcial3\Parcial 3\Main.cpp(419,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stacy\Downloads\examenparcial3\Parcial 3\Main.cpp(427,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\stacy\Downloads\examenparcial3\Parcial 3\Main.cpp(434,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  examenparcial3.vcxproj -> C:\Users\stacy\Downloads\examenparcial3\Parcial 3\x64\Debug\examenparcial3.exe
